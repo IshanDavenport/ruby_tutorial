@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+puts "Hello World!"
+
+
+# The command below is to prevent documentation being downloaded when installing gems
+
+#printf "install: --no-rdoc --no-ri\nupdate: --no-rdoc --no-ri\n" >> ~?.gemrc
